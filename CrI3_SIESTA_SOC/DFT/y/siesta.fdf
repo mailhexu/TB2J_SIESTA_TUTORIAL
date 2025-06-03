@@ -2,7 +2,6 @@ SystemName	siesta
 SystemLabel	siesta
 
 CDF.save	True
-DFTU.FirstIteration	True
 DM.NumberPulay	6
 Diag.ParallelOverK	True
 ElectronicTemperature	100 K
@@ -24,7 +23,6 @@ WriteHirshfeldPop	True
 WriteMullikenPop	1
 WriteOrbMom	True
 WriteVoronoiPop	True
-savehs.so	True
 
 Spin	spin-orbit
 XC.functional	GGA

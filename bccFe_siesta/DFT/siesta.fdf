@@ -11,9 +11,7 @@ SCF.Mixer.History	16
 SCF.Mixer.Method	Pulay
 SCF.Mixer.Spin	spinor
 SCF.Mixer.Weight	0.4
-SCF.Spin.Fix	True
 SaveHS	True
-Write.DMHS.Netcdf	True
 SCFMustConverge	True
 
 Spin     	COLLINEAR
