@@ -15,9 +15,10 @@
 
 ## Install TB2J
 
+Note: For this tutorial, you need to install sisl and netcdf4 alongside TB2J as they are required to read the SIESTA output in the netcdf format provided in the tutorial.
+
 ```
-    pip install TB2J
-    pip install sisl
+    pip install TB2J sisl netcdf4
 ```
 
 ## Notes:
@@ -26,8 +27,6 @@
 ```
   must be in the siesta input. 
 
-
-For the command to run TB2J, 
 
 ## Examples in this tutorial:
 
